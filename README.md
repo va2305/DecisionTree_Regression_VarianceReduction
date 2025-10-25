@@ -60,6 +60,12 @@ A small example dataset is used for clarity:
 
 ---
 
+### 📊 Model Output Visualization
+
+Below is the output of the Decision Tree Regression model after training:
+
+![Decision Tree Regression Output](output_plot.png)
+
 ## 🏃 How to Run
 
 1. Clone the repository:
