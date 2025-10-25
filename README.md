@@ -51,7 +51,22 @@ A small example dataset is used for clarity:
 
 ---
 
+
+
 ## 📈 Output Visualization
+
+### 🔹 Actual vs Predicted Plot
+The scatter plot shows how the Decision Tree Regressor predicts the target variable compared to the actual data points.
+
+![Decision Tree Regression Output](output_plot.png)
+
+---
+
+### 🔹 Decision Tree Structure
+This plot shows how the model split the data at different thresholds to minimize variance.
+
+![Decision Tree Structure](tree_structure.png)
+
 
 - **Scatter Plot:** Shows actual vs predicted values.  
 - **Decision Tree Plot:** Shows how the tree splits data to minimize variance.
